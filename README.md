@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-J-it-2024
-- 👀 I’m interested in pporting Pyhton code running in Ubuntu 20_LTS on a old MacBokk to a Windows 11pro machine
-- 🌱 I’m currently learning HTLM, CSS etc
+- 👀 I’m interested in pporting Pyhton code running in Ubuntu 20_LTS on a old MacBook to a Windows 11pro machine
+- 🌱 I’m currently learning HTLM, CSS etc for front end
 - 💞️ I’m looking to collaborate on LTE ToRpedo on ETTUS_210b, other similar stuff is also intergrated. Then full upgrade to ETTUS X410
 - 📫 How to reach me marshal1992smithers2@gmail.com
 - 😄 Pronouns: I'm to old for that...
